@@ -1,0 +1,8 @@
+.contact-content-body{
+    height: 815px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}

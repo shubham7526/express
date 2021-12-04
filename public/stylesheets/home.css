@@ -1,0 +1,38 @@
+.home-content-body{
+    display: flex;
+    height: 800px;
+
+}
+
+.home-left-side-bar{
+    background-color: gray;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 10px;
+    height: 70%;
+    width: 350px;
+}
+
+.home-content{
+    background-color: lavender;
+    text-align: center;
+    padding: 10px;
+    height: 100%;
+    width: 60%;
+    
+}
+
+.home-right-side-bar{
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+    border-radius: 1rem;
+    height: 50%;
+    width: 20%;
+    
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}

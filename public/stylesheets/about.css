@@ -1,0 +1,19 @@
+.about-content-body{
+    height: 800px;
+    width: 99%;
+}
+
+.about-content{
+    height: 800px;
+    width: 99%;
+    background-color: lavender;
+}
+
+.about-left-side-bar{
+    background-color: gray;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 10px;
+    height: 70%;
+    width: 419px;
+}

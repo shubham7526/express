@@ -1,0 +1,27 @@
+body {
+  height: 100vh;
+}
+
+.footer{
+  background-color: darkgoldenrod;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+  height: 6%;
+
+}
+
+a{
+  color: black;
+  height: 40px;
+  width: 120px;
+  background-color: bisque;
+  padding: 10px;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+a:hover{
+  color: black;
+  background-color: burlywood;
+}
